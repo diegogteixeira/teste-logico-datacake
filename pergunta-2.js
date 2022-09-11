@@ -1,6 +1,5 @@
 // 2.
-// Dada a seguinte arvore binária de palavras (ver na pasta o arquivo arvore.png),
-// faça uma função que busque nessa arvore pela palavra-chave.
+// Dada a seguinte arvore binária de palavras, faça uma função que busque nessa arvore pela palavra-chave.
 // O output da sua função deve ser o caminho até chegar no item procurado.
 // Por exemplo, se o input de buscar for “goiaba” o output deve ser uma string “Maça -> morango -> Goiaba”.
 
