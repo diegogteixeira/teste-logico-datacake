@@ -35,7 +35,7 @@ function temPalavraBuscada(raiz, lista, palavraBuscada) {
 
   lista.push(raiz.valor);
 
-  if (raiz.valor === palavraBuscada) {
+  if (raiz.valor.toLowerCase() === palavraBuscada.toLowerCase()) {
     return true;
   }
 
